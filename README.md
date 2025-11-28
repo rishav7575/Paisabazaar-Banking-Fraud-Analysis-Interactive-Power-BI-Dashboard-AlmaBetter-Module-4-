@@ -1,0 +1,2 @@
+# Paisabazaar-Banking-Fraud-Analysis-Interactive-Power-BI-Dashboard-AlmaBetter-Module-4-
+This repository contains my Power BI Fraud Analysis Dashboard, developed as Module 4 of the AlmaBetter Data Science Foundation Program. The dashboard is built using insights derived from my Python-based EDA on Paisabazaar’s financial dataset, transforming raw customer and credit data into a dynamic, decision-ready fraud detection system.
